@@ -10,6 +10,10 @@ Following are the datasets I used for collecting the CXR images :
 
 For the purpose of this exercise, I excluded Axial, Coronal, L, AP Semi Erect images. All the images are stored in Google Cloud Storage and the training is done on a Google Compute Engine VM Instance.
 
+## Current Results
+Following are the results I have obtained using current dataset and model :
+
+
 ## References 
 1. https://towardsdatascience.com/using-deep-learning-to-detect-ncov-19-from-x-ray-images-1a89701d1acd
 2. https://github.com/lindawangg/COVID-Net
